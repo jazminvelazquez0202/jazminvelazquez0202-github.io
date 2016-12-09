@@ -1,0 +1,49 @@
+ <!DOCTYPE html>  
+ <html>     
+
+
+ <head>  
+  <title> "My First Webpage"  </title>
+ </head> 
+
+ <body> 
+ 
+ <h1> "Hello World"</h1> 
+ 
+ <h2> "A place I would like to visit" </h2> 
+ 
+ <p> Paris 
+ 	 I would like to visit Paris because of the unique, fancy, and antique culture. Paris
+ 	 is known as one of the most beautiful places with so many artistic pieces. It would
+ 	 be so cool to visit such a luxurious artistic place. </p> 
+ 	 
+ <h2> "A person I admire(past or present) </h2>
+ 
+ <p> I person I admire is my grandmother because she worked hard as a single other to raise 
+      six kids on her own when her husband left her while pregnant. She had to work hard 
+       to work while taking care of the kids which had to be so difficult. </p> 
+ 
+ <h2> Favorite Fruits </h2> 
+ 
+ <ul>
+  <li>berries<li>
+  <li> strawberry<li> 
+  <li> oranges<li> </ul>
+  
+  <h2> "Favorite Presidents" </h2> 
+  
+  <ol>  
+   <li> George W. Bush<li> 
+   <li> John Adams<li> 
+    </body>
+    </ol>
+    </html> 
+  
+ 
+
+ 
+ 	 
+ 	 
+ 	 
+ 	
+ 	  
